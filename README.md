@@ -63,7 +63,7 @@ Utilize o map e reduce para calcular o total de gastos do cliente
 
 Imagem de exemplo:
 ![image](teste1.PNG)
-![image](teste2.png)
+![image](teste2.PNG)
 
 # Exercicio 5 
 
@@ -95,7 +95,7 @@ const produtos = [
 ```
 
 Imagem de exemplo:
-![image](teste3.png)
+![image](teste3.PNG)
 
 obs: Para estilzar  as cores utilize o arry de cores que contem em cada produto
 
