@@ -63,6 +63,7 @@ Utilize o map e reduce para calcular o total de gastos do cliente
 
 Imagem de exemplo:
 ![image](teste1.PNG)
+
 ![image](teste2.PNG)
 
 # Exercicio 5 
