@@ -62,7 +62,7 @@ Obs: O componente deve ser reutilizavel para outros clientes
 Utilize o map e reduce para calcular o total de gastos do cliente
 
 Imagem de exemplo:
-![image](teste1.png)
+![image](teste1.PNG)
 ![image](teste2.png)
 
 # Exercicio 5 
